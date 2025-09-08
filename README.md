@@ -1,7 +1,7 @@
 # 📝 To-Do List in Java
 
-A simple **console-based To-Do List application** built using Java.  
-This is my first GitHub project 🚀.
+A  **console-based To-Do List application** built using Java.  
+
 
 ## Features
 - Add tasks
